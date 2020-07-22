@@ -1,0 +1,31 @@
+body {
+    padding: 20px;
+    font-family: helvetica;
+    background-color: black;
+    color: white;
+}
+
+#h1_top {
+    text-align: center;
+    padding: 10px;
+    color: 255, 203, 5; /* rgb value */
+}
+
+#h1_bottom{ 
+    background-color: 2E549B; /* hex value */
+    padding: 10px;
+}
+
+img {
+    width: 150;
+}
+
+#the_divs {
+    border: 3px solid 2E549B; /* hex value */
+    padding: 20px
+}
+
+names {
+    font: bold;
+    font-size: 150;
+}
